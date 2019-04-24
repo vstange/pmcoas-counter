@@ -1,0 +1,19 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
+*.iml
+
+## Directory-based project format:
+.idea/
+
+# Eclipse Files
+/.classpath
+*/.classpath
+/.project
+*/.project
+/.settings/
+*/.settings/
+*/.gitignore
+
+# General
+/target/
+/**/target/
+.fuse_*
