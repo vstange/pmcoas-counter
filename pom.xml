@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <!-- Release property is used for maven when Java9 or higher is running -->
+        <!-- Release property is used for maven when Java9 or higher is running. -->
         <maven.compiler.release>11</maven.compiler.release>
     </properties>
 
